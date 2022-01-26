@@ -8,6 +8,10 @@
 </head>
 <body>
     <h1>Hello World!</h1>
-    <p>Cobain aja</p>    
+    <p>Cobain aja</p>
+    <ul> 
+        <li>ini</li>
+        <li>itu</li>
+    <ul>    
 </body>
 </html>
